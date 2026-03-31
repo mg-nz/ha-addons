@@ -1,7 +1,7 @@
 name:  "GivTCP Patched"
 description:  "TCP Modbus connection to MQTT/REST for Givenergy Battery/PV Invertors"
 version:  "3.5"
-image: demgnz/giv_tcp:patched
+image: docker.io/demgnz/giv_tcp:patched
 slug:  "givtcp-patched"
 homeassistant_api: true
 hassio_api: true
